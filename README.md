@@ -1,4 +1,6 @@
-🚀 Empowering Organisations with 📊 Intelligent Insights |🧠 AI & ML for Smarter Decisions | Connecting 🌐 Networks and Building 💻 Back-ends | Safeguarding Businesses with 🔒 Cybersecurity Strategies | 🐍 Python
+### 🚀 Empowering Organisations with 📊 Intelligent Insights |🧠 AI & ML for Smarter Decisions | Connecting 🌐 Networks and Building 💻 Back-ends | Safeguarding Businesses with 🔒 Cybersecurity Strategies | 🐍 Python
+#
+<br>
 
 
 I am passionate about the correlation of machine learning, AI and networking, I bring a diverse skill set to create innovative solutions to real world and business problems.
@@ -16,10 +18,11 @@ I am passionate about the correlation of machine learning, AI and networking, I 
 I like to work in an environment that offers both challenges to push my limits and hone my skills and also offers a sense of peace to nurture my creativity and focus.
 I would like to connect with fellow professionals in the field and explore opportunities to contribute to innovative projects that leverage the power of artificial intelligence, networking, web development, and cybersecurity.
 
-<!---
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me - https://www.linkedin.com/in/anuraag-manvi/
---->
+#
+
+<!--- - 💞️ I’m looking to collaborate on ... --->
+📫 How to reach me - https://www.linkedin.com/in/anuraag-manvi/
+
 <!---
 anuraagmanvi/anuraagmanvi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
