@@ -2,7 +2,6 @@
 #
 <br>
 
-
 I am passionate about the correlation of machine learning, AI and networking, I bring a diverse skill set to create innovative solutions to real world and business problems.
 
 🤖 With my knowledge in machine learning algorithms , models and data analysis, I like to uncover valuable insights from data and help in making data-driven decisions.
@@ -23,6 +22,11 @@ I would like to connect with fellow professionals in the field and explore oppor
 <!--- - 💞️ I’m looking to collaborate on ... --->
 📫 How to reach me - https://www.linkedin.com/in/anuraag-manvi/
 
+#
+
+- 🚗 I like to spend my time exploring places 
+- 🖨️ I am also learning how to 3d print
+- ⚡I also like working on IoT projects (will update the github accordingly)
 <!---
 anuraagmanvi/anuraagmanvi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
